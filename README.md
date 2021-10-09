@@ -7,7 +7,7 @@
 ## 技能清单
 - 编程语言：C（较为擅长）/ Python（稍微会点）
 - 数据库语言：PostgreSQL   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lrz266OuO&show_icons=true&theme=bear)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lrz266OuO&show_icons=true&theme=dracula)
 
 ## 为啥玩GitHub
 - 搞一些编程实验进行程序学习

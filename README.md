@@ -3,11 +3,13 @@
 - **St3ve Lee**
 - 现就读于TJU CIC
 - 计算机科学与技术专业
-- 本科大二在读
+- 本科大二在读  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lrz266OuO&show_icons=true&theme=dracula)
+
 ## 技能清单
 - 编程语言：C（较为擅长）/ Python（稍微会点）
-- 数据库语言：PostgreSQL   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lrz266OuO&show_icons=true&theme=dracula)
+- 数据库语言：PostgreSQL  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lrz266OuO&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## 为啥玩GitHub
 - 搞一些编程实验进行程序学习

@@ -1,4 +1,4 @@
-![管大校神之一指](https://github.com/Lrz266OuO/image/blob/master/%E7%AE%A1%E5%A4%A7%E6%A0%A1%E7%A5%9E%E4%B9%8B%E4%B8%80%E6%8C%87.png)
+![管大校神之一指](https://github.com/Lrz266OuO/image/blob/master/%E7%AE%A1%E5%A4%A7%E6%A0%A1%E7%A5%9E%E4%B9%8B%E4%B8%80%E6%8C%87.png)  
 
 # 个人介绍
 ## 基本信息
@@ -6,17 +6,15 @@
 - 现就读于TJU CIC
 - 计算机科学与技术专业
 - 本科大三在读  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lrz266OuO&show_icons=true&theme=dracula)
 
 ## 技能清单
-- 编程语言：C（较为擅长）/ Python（稍微会点）
-- 数据库语言：PostgreSQL  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lrz266OuO&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## 为啥玩GitHub
 - 搞一些编程实验进行程序学习
 - 学习ing
 - 写的一些实验放在上面存一下（刷个存在感，好歹是自己会编程的证据）
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lrz266OuO&show_icons=true&theme=dracula)
 
 # 联系方式
 - Tel: 159... （暂无）

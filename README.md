@@ -3,7 +3,7 @@
 - **St3ve Lee**
 - 现就读于TJU CIC
 - 计算机科学与技术专业
-- 本科大二在读  
+- 本科大三在读  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lrz266OuO&show_icons=true&theme=dracula)
 
 ## 技能清单

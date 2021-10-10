@@ -1,3 +1,5 @@
+![管大校神之一指](https://github.com/Lrz266OuO/image/blob/master/%E7%AE%A1%E5%A4%A7%E6%A0%A1%E7%A5%9E%E4%B9%8B%E4%B8%80%E6%8C%87.png)
+
 # 个人介绍
 ## 基本信息
 - **St3ve Lee**

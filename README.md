@@ -6,7 +6,7 @@
 - 现就读于TJU CIC
 - 计算机科学与技术专业
 - 本科大三在读  
-- 现阶段正在学习ViT
+- 现阶段正在学习**ViT**
 
 ## 技能清单
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lrz266OuO&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 

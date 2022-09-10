@@ -6,7 +6,7 @@
 - 现就读于TJU CIC
 - 计算机科学与技术专业
 - 本科大四在读  
-- 现阶段正在学习**ViT**
+- 现阶段正在学习**swin-t**
 
 ## 技能清单
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lrz266OuO&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
@@ -18,10 +18,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lrz266OuO&show_icons=true&theme=dracula)
 
 # 联系方式
-- Tel: 159... （暂无）
-- Email: Li...@163.com（暂无）
-- QQ: 19275... （暂无）
-- WeChat: L... （暂无）
+- Tel: 159...
+- Email: Li...@163.com
+- QQ: 19275...
+- WeChat: L...
 
 # 现阶段情况
 - 我不是编程大佬，我只是*代码的搬运工*...

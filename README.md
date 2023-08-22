@@ -17,8 +17,6 @@ I have done some projects in C and Python:
 - [MiniMIPS32 Instruction Set Simulator](https://github.com/lllirunze/Computer_Organization_and_Architecture_Lab): Emulator for 32-bit MIPS instruction set designed using C.
 - Design and Development of TCP Protocol: TCP/IP protocol stack based on RFC1122 using C.
 
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lllirunze&show_icons=true&theme=dracula)
 
 Others:

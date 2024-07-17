@@ -15,12 +15,12 @@ I have done some projects in C and Python:
 - [Video Recognition based on Video-Swin-Transformer](https://github.com/lllirunze/Lrz_Improved_Swin): A reimplement of designed and improved Video-Swin-Transformer using Python.
 - [Two-level Cache Emulator](https://github.com/lllirunze/Computer_Organization_and_Architecture_Practice): A flexibly configurable two-level cache storage system simulator developed using C.
 - [MiniMIPS32 Instruction Set Simulator](https://github.com/lllirunze/Computer_Organization_and_Architecture_Lab): Emulator for 32-bit MIPS instruction set designed using C.
-- Design and Development of TCP Protocol: TCP/IP protocol stack based on RFC1122 using C.
+- [Design and Development of TCP Protocol](https://github.com/lllirunze/TJU_TCP): TCP/IP protocol stack based on RFC793 using C.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lllirunze&show_icons=true&theme=dracula)
 
 Others:
-- [About Me]([http://kuangjux.top/](https://lllirunze.github.io/))
+- [About Me]((https://lllirunze.github.io/))
 - [LinkedIn](https://www.linkedin.com/in/runze-li-07a739266/)
 
 

@@ -2,7 +2,7 @@
 
 ![管大校神之一指](https://github.com/lllirunze/image/blob/master/%E7%AE%A1%E5%A4%A7%E6%A0%A1%E7%A5%9E%E4%B9%8B%E4%B8%80%E6%8C%87.png)  
 
-Hello, I am __Runze (Ryan) Li__. I'm a graduate student in New York University. I love Artificial Intelligence and Machine Learning. Currently, I'm looking for a job as SDE.
+Hello, I am __Runze (Ryan) Li__. I'm a graduate student in New York University, majoring in Computer Science. I love Artificial Intelligence and Machine Learning. Currently, I'm looking for a job as SDE.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lllirunze&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 

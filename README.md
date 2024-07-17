@@ -6,7 +6,7 @@ Hello, I am __Runze (Ryan) Li__. I'm a graduate student in New York University. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lllirunze&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
-When I was in Tianjin University as an undergraduate student, I have done some researches in Machine Learning and Data Mining Lab, which help me learn more about machine learning and computer vision. Actually, I'm not a perfect coder. Instead, I'm a code porter(just kidding).
+When I was in Tianjin University as an undergraduate student, I have done some researches in Machine Learning and Data Mining Lab, which help me learn more about machine learning and computer vision. Actually, I'm not a perfect coder. Instead, I'm a code porter with Ctrl-C and Ctrl-V(just kidding).
 
 I have done some projects in C and Python:
 

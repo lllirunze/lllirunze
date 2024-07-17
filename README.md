@@ -20,7 +20,7 @@ I have done some projects in C and Python:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lllirunze&show_icons=true&theme=dracula)
 
 Others:
-- [About Me]((https://lllirunze.github.io/))
+- [About Me](https://lllirunze.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/runze-li-07a739266/)
 
 

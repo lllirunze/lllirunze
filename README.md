@@ -2,7 +2,7 @@
 
 ![管大校神之一指](https://github.com/lllirunze/image/blob/master/%E7%AE%A1%E5%A4%A7%E6%A0%A1%E7%A5%9E%E4%B9%8B%E4%B8%80%E6%8C%87.png)  
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">Hello, I am __Runze (Ryan) Li__. I'm a graduate student in New York University, majoring in Computer Science. I love Artificial Intelligence and Machine Learning. I worked as a software development intern in Huawei, where my job was to lay flat. Currently, I'm looking for a job as SDE.
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">Hello, I am __Runze (Ryan) Li__. I'm a graduate student in New York University, majoring in Computer Science. I love Artificial Intelligence and Machine Learning. I worked as a software development intern in Huawei, where my job was to lay flat. Currently, I'm looking for a job as SDE (seems to have found it, but in making a selection).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lllirunze&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 

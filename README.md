@@ -31,7 +31,7 @@
 - 📧 [Email me](mailto:lirunze.me@gmail.com)
 
 <p align="center">
-  <img src="https://github.com/lllirunze/image/blob/master/%E7%AE%A1%E5%A4%A7%E6%A0%A1%E7%A5%9E%E4%B9%8B%E4%B8%80%E6%8C%87.png" alt="管大校神之一指" width="300" />
+  <img src="https://github.com/lllirunze/lllirunze/blob/main/image/%E7%AE%A1%E5%A4%A7%E6%A0%A1%E7%A5%9E%E4%B9%8B%E4%B8%80%E6%8C%87.png" alt="管大校神之一指" width="300" />
 </p>
 <h2 align="center"> I hope everyone can make progress together :) </h2>
 

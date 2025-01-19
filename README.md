@@ -25,6 +25,7 @@
 
 #### 📫 Contact me
 - 🌐 [About Me](https://lllirunze.github.io/)
+- 🐦 [Twitter](https://x.com/notifications)
 - 💼 [LinkedIn](https://www.linkedin.com/in/runze-li-07a739266/)
 - 🐙 [GitHub](https://github.com/lllirunze)
 - 🏆 LeetCode ( [CN](https://leetcode.cn/u/nice-i3anzaiwac/) / [US](https://leetcode.com/u/lllirunze/) )

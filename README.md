@@ -10,6 +10,21 @@
 - 🎯 Hobbies: Badminton 🏸, Billiards 🎱, and Werewolf 🐺
 - 😊 Feel free to connect with me!  
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/lllirunze/lllirunze/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/lllirunze/lllirunze/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/lllirunze/lllirunze/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 ---
 
 #### 🚀 Skills & Tools

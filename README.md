@@ -1,4 +1,4 @@
-### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> Hi, I'm Runze (Ryan) Li!
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> Hi, I'm Runze (Ryan) Li!
 
 - 💻 I'm currently using the Linux Platform and programming in Java  
 - 🔍 I'm exploring LLM and AI-assisted tools
@@ -27,18 +27,18 @@
 
 ---
 
-#### 🚀 Skills & Tools
+### 🚀 Skills & Tools
 - **Languages**: ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white) ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white) ![Groovy](https://img.shields.io/badge/-Groovy-4298B8?logo=apachegroovy&logoColor=white) 
 - **Frameworks**: ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=springboot&logoColor=white) ![MyBatis-Plus](https://img.shields.io/badge/-MyBatis--Plus-FA2D17?logo=mybatis&logoColor=white) ![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apachemaven&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 - **Dev Tools**: ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) ![Huawei Cloud](https://img.shields.io/badge/-Huawei%20Cloud-FF0000?logo=huawei&logoColor=white)
 - **Platforms**: ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
-#### 📊 GitHub Stats
+### 📊 GitHub Stats
 ![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lllirunze&show_icons=true&theme=tokyonight)   
 
 ---
 
-#### 📫 Contact me
+### 📫 Contact me
 - 🌐 [About Me](https://lllirunze.github.io/)
 - 🐦 [Twitter](https://x.com/Stev3_Lee)
 - 💼 [LinkedIn](https://www.linkedin.com/in/runze-li-07a739266/)

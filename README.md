@@ -39,7 +39,7 @@
 ---
 
 ### 📫 Contact me
-- 🌐 [About Me](https://lllirunze.github.io/)
+- 🌐 [About Me](https://lllirunze.cn)
 - 🐦 [Twitter](https://x.com/Stev3_Lee)
 - 💼 [LinkedIn](https://www.linkedin.com/in/runze-li-07a739266/)
 - 🐙 [GitHub](https://github.com/lllirunze)

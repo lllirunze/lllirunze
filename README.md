@@ -1,5 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> Hi, I'm Runze (Ryan) Li!
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi%2C+I'm+Runze+(Ryan)+Li!)](https://git.io/typing-svg)
+
 - 💻 I'm currently using the Linux Platform and programming in Java  
 - 🔍 I'm exploring LLM and AI-assisted tools
 - 🧑‍💻 Actively seeking a **Software Engineer** full-time job  

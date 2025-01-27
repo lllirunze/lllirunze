@@ -8,6 +8,7 @@
 - 🎓 Education: MSCS in NYU (GPA: 3.93) | B.Eng in TJU (GPA: 3.66)
 - 💼 Former Software Engineer Intern at Huawei
 - 🎯 Hobbies: Badminton 🏸, Billiards 🎱, and Werewolf 🐺
+- 🐣 Trying to write a rookie blog of my own
 - 😊 Feel free to connect with me!  
 
 <picture>

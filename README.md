@@ -1,12 +1,11 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> Hi, I'm Runze (Ryan) Li!
 
-- 💻 I'm currently using the Linux Platform and programming in Java  
+- 💻 I'm currently using the Linux Platform and programming in Java 
 - 🔍 I'm exploring LLM and AI-assisted tools
-- 🧑‍💻 Actively seeking a **Software Engineer** full-time job  
+- 💼 Working as a **Software Engineer** in Huawei  
 - 💰 I'm highly motivated to earn money
 - 💡 I'm a code porter with Ctrl-C and Ctrl-V (just kidding)
 - 🎓 Education: MSCS in NYU (GPA: 3.93) | B.Eng in TJU (GPA: 3.66)
-- 💼 Former Software Engineer Intern at Huawei
 - 🎯 Hobbies: Badminton 🏸, Billiards 🎱, and Werewolf 🐺
 - 🐣 Trying to write a rookie blog of my own
 - 😊 Feel free to connect with me!  

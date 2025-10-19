@@ -39,6 +39,18 @@
 ---
 
 ### 📫 Contact me
+
+<a href="https://x.com/Stev3_Lee" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" width="40" height="=40" style="margin-right:40px;" />
+</a>
+<a href="https://leetcode.com/u/lllirunze/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" width="40" height="=40" style="margin-right:40px;" />
+</a>
+<a href="https://stackoverflow.com/users/21977543/lllirunze" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" width="40" height="=40" style="margin-right:40px;" />
+</a>
+
+
 - 🌐 [Homepage](https://lllirunze.cn)
 - 🐦 [Twitter](https://x.com/Stev3_Lee)
 - 💼 [LinkedIn](https://www.linkedin.com/in/runzeli2001/)

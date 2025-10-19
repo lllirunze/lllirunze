@@ -10,27 +10,37 @@
 - 🐣 Trying to write a rookie blog of my own
 - 😊 Feel free to connect with me!  
 
-<a href="mailto:lirunze.me@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://lllirunze.cn">
-  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github%20Pages&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/runzeli2001/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://stackoverflow.com/users/21977543/lllirunze">
-  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-</a>
-<a href="https://leetcode.com/u/lllirunze/">
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
-</a>
-<a href="https://x.com/Stev3_Lee">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
-</a>
-<a href="https://www.instagram.com/lllirunze/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+<div>
+
+[![Button Gmail]][Gmail]
+[![Button GithubPage]][GithubPage]
+[![Button Linkedin]][Linkedin]
+[![Button StackOverflow]][StackOverflow]
+[![Button Leetcode]][Leetcode]
+[![Button X]][X]
+[![Button Instagram]][Instagram]
+
+</div>
+
+<!----------------------------------------------------------------------------->
+
+[Gmail]: mailto:lirunze.me@gmail.com
+[GithubPage]: https://lllirunze.cn
+[Linkedin]: https://www.linkedin.com/in/runzeli2001/
+[StackOverflow]: https://stackoverflow.com/users/21977543/lllirunze
+[Leetcode]: https://leetcode.com/u/lllirunze/
+[X]: https://x.com/Stev3_Lee
+[Instagram]: https://www.instagram.com/lllirunze/
+
+<!-------------------------------[ Buttons ]----------------------------------->
+
+[Button Gmail]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[Button GithubPage]: https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github%20Pages&logoColor=white
+[Button Linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[Button StackOverflow]: https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
+[Button Leetcode]: https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black
+[Button X]: https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white
+[Button Instagram]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 
 ---
 

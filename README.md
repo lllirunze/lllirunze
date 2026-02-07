@@ -5,7 +5,7 @@
 - 💼 Working as a **Software Engineer** in Huawei ICT 
 - 💰 I'm highly motivated to earn money
 - 💡 I'm a code porter with Ctrl-C and Ctrl-V (just kidding)
-- 🎓 Education: MSCS in NYU (GPA: 3.93) | B.Eng in TJU (GPA: 3.66)
+- 🎓 Education: M.S. in Computer @ NYU | B.Eng in Computer Science @ TJU
 - 🎯 Hobbies: Badminton 🏸, Billiards 🎱, and Werewolf 🐺
 - 🐣 Trying to write a rookie blog of my own
 - 😊 Feel free to connect with me!  

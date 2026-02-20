@@ -52,27 +52,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lllirunze&show_icons=true&theme=tokyonight)
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/lllirunze/lllirunze/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/lllirunze/lllirunze/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/lllirunze/lllirunze/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
----
-
 <p align="center">
   <img src="https://github.com/lllirunze/lllirunze/blob/main/image/%E7%AE%A1%E5%A4%A7%E6%A0%A1%E7%A5%9E%E4%B9%8B%E4%B8%80%E6%8C%87.png" alt="管大校神之一指" width="300" />
 </p>

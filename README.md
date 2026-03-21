@@ -2,11 +2,11 @@
 
 - 💻 I'm currently using the Linux Platform and programming in Java 
 - 🔍 I'm exploring LLM and AI Agent tools
-- 💼 Working as a **Software Engineer** in Huawei ICT 
+- 💼 Working as a **Software Engineer** @ Huawei
 - 💰 I'm highly motivated to earn money
 - 💡 I'm a code porter with Ctrl-C and Ctrl-V (just kidding)
 - 🎓 Education: M.S. in Computer @ NYU | B.Eng in Computer Science @ TJU
-- 🎯 Hobbies: Badminton 🏸, Billiards 🎱, and Werewolf 🐺
+- 🎯 Hobbies: Badminton 🏸 and Billiards 🎱
 - 🐣 Trying to write a rookie blog of my own
 - 😊 Feel free to connect with me!  
 

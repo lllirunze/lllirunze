@@ -13,7 +13,6 @@
 <div>
 
 [![Button Gmail]][Gmail]
-[![Button GithubPage]][GithubPage]
 [![Button Linkedin]][Linkedin]
 [![Button StackOverflow]][StackOverflow]
 [![Button Leetcode]][Leetcode]

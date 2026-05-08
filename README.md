@@ -25,7 +25,6 @@
 <!----------------------------------------------------------------------------->
 
 [Gmail]: mailto:lirunze.me@gmail.com
-[GithubPage]: https://lllirunze.cn
 [Linkedin]: https://www.linkedin.com/in/runzeli2001/
 [StackOverflow]: https://stackoverflow.com/users/21977543/lllirunze
 [Leetcode]: https://leetcode.com/u/lllirunze/
